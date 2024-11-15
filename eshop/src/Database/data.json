@@ -1,0 +1,171 @@
+{
+  "Manager": [
+    {
+      "id": "6e59",
+      "name": "Nami",
+      "email": "Nami@gmail.com",
+      "phone": "1234567890",
+      "password": "Nami",
+      "profile": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Nami_face.jpg/220px-Nami_face.jpg"
+    },
+    {
+      "id": "bd0c",
+      "name": "luffy",
+      "email": "luffy@gmail.com",
+      "phone": "1234567894",
+      "password": "1234asbc",
+      "profile": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHDEP9-4_3kL7NN70JDfWOgkgBxMb5zdN3X_0tW0tsfGOGQ7DmVK_j4jkyIMQq7yM4N5Dl"
+    },
+    {
+      "id": "1a93",
+      "name": "Anushka",
+      "email": "Annu@gmail.com",
+      "phone": "1234567891",
+      "password": "abcd",
+      "profile": "Pic"
+    },
+    {
+      "id": "d0e1",
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "phone": "1234567854",
+      "password": "ABC",
+      "profile": "ABCCC"
+    },
+    {
+      "id": "84bf",
+      "name": "King",
+      "email": "king@gmail.com",
+      "phone": "1234456147",
+      "password": "abcd",
+      "profile": "url"
+    }
+  ],
+  "Product": [
+    {
+      "restaurant": "Drinking cafe",
+      "dish": "Virgin Mojito",
+      "price": "100",
+      "category": "Beverages",
+      "thumbnailurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwxSk7ZsovTWGsyz_Uz1pMqAcoWbKCrRgyzw&usqp=CAU",
+      "rating": "5",
+      "id": "eab4"
+    },
+    {
+      "restaurant": "Zoro da theka",
+      "dish": "Pink vodka",
+      "price": "1000",
+      "thumbnailurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIATQ_SIByU5o9e4Zy27uCTRsEZynA4MJ3Y_3if25dkw&s",
+      "rating": "5",
+      "id": "f178"
+    },
+    {
+      "id": "6a06",
+      "category": "Vegetarian",
+      "restaurant": "Hotel A2",
+      "dish": "Veg  Mushroom Biryani",
+      "price": "500",
+      "thumbnailurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSenlJM7JCg0gHWpDhqAAfwSp8h2AyRVG_W1g&usqp=CAU",
+      "rating": "5"
+    },
+    {
+      "id": "d0ae",
+      "category": "Non Veg",
+      "restaurant": "Great Hotel",
+      "dish": "Non veg meal",
+      "price": "280",
+      "thumbnailurl": "https://images.slurrp.com/prodarticles/csflrw267b7.webp?impolicy=slurrp-20210601&width=1200&height=900",
+      "rating": "3"
+    },
+    {
+      "id": "d7e7",
+      "category": "Desserts",
+      "restaurant": "Chai Bar",
+      "dish": "cake",
+      "price": "320",
+      "thumbnailurl": "https://i1.fnp.com/images/pr/l/v20190520192511/black-forest-cake-half-kg_1.jpg",
+      "rating": "5"
+    },
+    {
+      "id": "3e94",
+      "category": "Desserts",
+      "restaurant": "Sweetopia",
+      "dish": "Cheery delight cake",
+      "price": "230",
+      "thumbnailurl": "https://i.pinimg.com/originals/d5/2c/cd/d52ccdaa128eda4085bd5fc01291e79f.jpg",
+      "rating": "5"
+    },
+    {
+      "id": "aec0",
+      "category": "Desserts",
+      "restaurant": "Cupcake center",
+      "dish": "Cookies",
+      "price": "50",
+      "thumbnailurl": "https://cdn.loveandlemons.com/wp-content/uploads/2020/12/cookie-recipes.jpg",
+      "rating": "5"
+    },
+    {
+      "id": "1db0",
+      "category": "Desserts",
+      "restaurant": "Cupcake center",
+      "dish": "Cup cake",
+      "price": "80",
+      "thumbnailurl": "https://images.immediate.co.uk/production/volatile/sites/2/2018/09/OLI-0918_HereNow-CremeCaramel_28005-cb31e47.jpg?quality=90&resize=556,505",
+      "rating": "5"
+    },
+    {
+      "id": "3ef8",
+      "category": "Desserts",
+      "restaurant": "Cheesy crunch",
+      "dish": "Cheese cake",
+      "price": "70",
+      "thumbnailurl": "https://images.immediate.co.uk/production/volatile/sites/2/2018/09/OLI-0918_HereNow-CremeCaramel_28005-cb31e47.jpg?quality=90&resize=556,505",
+      "rating": "5"
+    },
+    {
+      "id": "cb85",
+      "category": "Desserts",
+      "restaurant": "Cheesy crunch",
+      "dish": "Brownie",
+      "price": "80",
+      "thumbnailurl": "https://images.immediate.co.uk/production/volatile/sites/2/2018/09/OLI-0918_HereNow-CremeCaramel_28005-cb31e47.jpg?quality=90&resize=556,505",
+      "rating": "5"
+    },
+    {
+      "id": "afb1",
+      "category": "Desserts",
+      "restaurant": "Starters hotel",
+      "dish": "Gobi Manchurian",
+      "price": "50",
+      "thumbnailurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi13oNY58bSofOvMAStZoLJFizOT4lzcr_JQ&usqp=CAU",
+      "rating": "4"
+    },
+    {
+      "id": "cc5e",
+      "category": "Desserts",
+      "restaurant": "Hotel Healthy",
+      "dish": "Spring rolls",
+      "price": "150",
+      "thumbnailurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi13oNY58bSofOvMAStZoLJFizOT4lzcr_JQ&usqp=CAU",
+      "rating": "5"
+    },
+    {
+      "id": "1af9",
+      "category": "Starters",
+      "restaurant": "Hotel Healthy",
+      "dish": "Samosa",
+      "price": "70",
+      "thumbnailurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi13oNY58bSofOvMAStZoLJFizOT4lzcr_JQ&usqp=CAU",
+      "rating": "5"
+    },
+    {
+      "id": "11b0",
+      "category": "Vegetarian",
+      "restaurant": "Hotel Healthy",
+      "dish": "Sev Sabji",
+      "price": "340",
+      "thumbnailurl": "https://s3-ap-south-1.amazonaws.com/betterbutterbucket-silver/shobha-vyas20181023214959211.jpeg",
+      "rating": "5"
+    }
+  ]
+}

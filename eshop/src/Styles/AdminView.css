@@ -1,0 +1,75 @@
+.displayproduct{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(233, 218, 200);
+    box-shadow: 0px 0px 2px rgb(27, 26, 26);
+    border-radius: 25px;
+    border: 2px solid white;
+    margin: 20px 0px;
+    transition: 1s;
+    padding-top: 10px;
+}
+
+.displayproduct:hover{
+    transform: scale(1.1);
+    background-color: rgb(214, 194, 170);
+}
+
+.displayproduct img{
+    height: 150px;
+    width: 280px;
+}
+
+.adminviewpage{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    justify-content: space-around;
+} 
+
+.restaurant{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px;
+}
+#restaurantid{
+    font-family: sans-serif;
+    color: crimson;
+    font-size: 25px;
+}
+
+
+#rating{
+    border: 1px solid red;
+    height: 35px;
+    width: 45px;
+    color: red;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.dishclass{
+    display: flex;
+    justify-content: start;
+    font-family: cursive;
+    padding-left: 10px;
+}
+
+#star{
+    height: 16px;
+    text-align: center;
+    padding-top: 8px;
+}
+
+.discount{
+    display: flex;
+    justify-content: start;
+    padding-left: 10px;
+}
+
+.iconclass{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px;
+}
